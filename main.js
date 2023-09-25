@@ -46,6 +46,5 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
-    // Initial search with an empty string
     searchPokemon('');
 });
